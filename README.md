@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an AI Automation Startup<br>👯 I’m looking to collaborate on AI and Web Design<br>🌱 I’m currently learning automation and analysis of firms<br>💬 Ask me about web dev and AI<br>⚡ Fun fact about me: I work better under pressure
+🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on Web Dev and Web Design<br>🌱 I’m currently learning Deep Learning and AngularJS<br>💬 Ask me about web dev and DL<br>⚡ Fun fact about me: I work better under pressure
 
 
 ## 🌐 Socials:
