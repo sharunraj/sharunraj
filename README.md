@@ -122,73 +122,100 @@ Medallion-architecture anomaly detection on Databricks, plus cloud-native monito
 <!-- ░░ Stack ░░ -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="28"/> Tech Stack
 
-<h4 align="center">🧠 GenAI &amp; Agents</h4>
-<p align="center">
+<table>
+<tr>
+<td width="210" valign="middle"><b>🧠 GenAI &amp; Agents</b></td>
+<td>
   <img src="https://img.shields.io/badge/LangGraph-1a1b27?style=for-the-badge&logo=langgraph&logoColor=7dcfff" alt="LangGraph"/>
   <img src="https://img.shields.io/badge/LangChain-1a1b27?style=for-the-badge&logo=langchain&logoColor=7dcfff" alt="LangChain"/>
   <img src="https://img.shields.io/badge/MCP-1a1b27?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP"/>
   <img src="https://img.shields.io/badge/Azure_OpenAI-1a1b27?style=for-the-badge&logo=openai&logoColor=white" alt="Azure OpenAI"/>
-  <br/>
   <img src="https://img.shields.io/badge/Claude-1a1b27?style=for-the-badge&logo=anthropic&logoColor=D97757" alt="Claude"/>
   <img src="https://img.shields.io/badge/Gemini-1a1b27?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" alt="Gemini"/>
-  <img src="https://img.shields.io/badge/OpenSpec-1a1b27?style=for-the-badge&logoColor=white" alt="OpenSpec"/>
-</p>
-
-<h4 align="center">🔍 Retrieval &amp; Knowledge</h4>
-<p align="center">
+  <img src="https://img.shields.io/badge/OpenSpec-1a1b27?style=for-the-badge" alt="OpenSpec"/>
+</td>
+</tr>
+<tr>
+<td width="210" valign="middle"><b>🔍 Retrieval &amp; Knowledge</b></td>
+<td>
   <img src="https://img.shields.io/badge/FAISS-1a1b27?style=for-the-badge&logo=meta&logoColor=0081FB" alt="FAISS"/>
-  <img src="https://img.shields.io/badge/BM25-1a1b27?style=for-the-badge&logoColor=white" alt="BM25"/>
+  <img src="https://img.shields.io/badge/BM25-1a1b27?style=for-the-badge" alt="BM25"/>
   <img src="https://img.shields.io/badge/Neo4j-1a1b27?style=for-the-badge&logo=neo4j&logoColor=4581C3" alt="Neo4j"/>
-  <img src="https://img.shields.io/badge/Hybrid_Search-1a1b27?style=for-the-badge&logoColor=white" alt="Hybrid Search"/>
-  <img src="https://img.shields.io/badge/Semantic_Caching-1a1b27?style=for-the-badge&logoColor=white" alt="Semantic Caching"/>
-</p>
-
-<h4 align="center">🛡️ LLM Evals &amp; Governance</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/LLM--as--a--Judge-1a1b27?style=for-the-badge&logoColor=white" alt="LLM-as-a-Judge"/>
-  <img src="https://img.shields.io/badge/Presidio-1a1b27?style=for-the-badge&logoColor=white" alt="Presidio"/>
-  <img src="https://img.shields.io/badge/Guardrails-1a1b27?style=for-the-badge&logoColor=white" alt="Guardrails"/>
-  <img src="https://img.shields.io/badge/Observability-1a1b27?style=for-the-badge&logoColor=white" alt="Observability"/>
-</p>
-
-<h4 align="center">⚙️ Languages, Backend &amp; Web</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,fastapi,flask,nextjs,react,nodejs,tailwind&theme=dark" alt="Python, JavaScript, FastAPI, Flask, Next.js, React, Node.js, Tailwind"/>
-  <br/>
+  <img src="https://img.shields.io/badge/Hybrid_Search-1a1b27?style=for-the-badge" alt="Hybrid Search"/>
+  <img src="https://img.shields.io/badge/Semantic_Caching-1a1b27?style=for-the-badge" alt="Semantic Caching"/>
+</td>
+</tr>
+<tr>
+<td width="210" valign="middle"><b>🛡️ LLM Evals &amp; Governance</b></td>
+<td>
+  <img src="https://img.shields.io/badge/LLM--as--a--Judge-1a1b27?style=for-the-badge" alt="LLM-as-a-Judge"/>
+  <img src="https://img.shields.io/badge/Presidio-1a1b27?style=for-the-badge" alt="Presidio"/>
+  <img src="https://img.shields.io/badge/Guardrails-1a1b27?style=for-the-badge" alt="Guardrails"/>
+  <img src="https://img.shields.io/badge/Observability-1a1b27?style=for-the-badge" alt="Observability"/>
+</td>
+</tr>
+<tr>
+<td width="210" valign="middle"><b>⚙️ Languages &amp; Backend</b></td>
+<td>
+  <img src="https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/SQL-1a1b27?style=for-the-badge" alt="SQL"/>
+  <img src="https://img.shields.io/badge/FastAPI-1a1b27?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Flask-1a1b27?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/WebSockets-1a1b27?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets"/>
+</td>
+</tr>
+<tr>
+<td width="210" valign="middle"><b>🌐 Frontend &amp; AI Apps</b></td>
+<td>
+  <img src="https://img.shields.io/badge/Next.js-1a1b27?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React-1a1b27?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-1a1b27?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Tailwind-1a1b27?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind"/>
   <img src="https://img.shields.io/badge/Streamlit-1a1b27?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="Streamlit"/>
   <img src="https://img.shields.io/badge/Gradio-1a1b27?style=for-the-badge&logo=gradio&logoColor=F97316" alt="Gradio"/>
-  <img src="https://img.shields.io/badge/WebSockets-1a1b27?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets"/>
-</p>
-
-<h4 align="center">🗄️ Data &amp; Databases</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,redis,mysql,mongodb&theme=dark" alt="PostgreSQL, Redis, MySQL, MongoDB"/>
-  <br/>
+</td>
+</tr>
+<tr>
+<td width="210" valign="middle"><b>🗄️ Data &amp; Databases</b></td>
+<td>
+  <img src="https://img.shields.io/badge/PostgreSQL-1a1b27?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Redis-1a1b27?style=for-the-badge&logo=redis&logoColor=FF4438" alt="Redis"/>
+  <img src="https://img.shields.io/badge/MySQL-1a1b27?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-1a1b27?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Databricks-1a1b27?style=for-the-badge&logo=databricks&logoColor=FF3621" alt="Databricks"/>
   <img src="https://img.shields.io/badge/Airflow-1a1b27?style=for-the-badge&logo=apacheairflow&logoColor=017CEE" alt="Airflow"/>
   <img src="https://img.shields.io/badge/Prefect-1a1b27?style=for-the-badge&logo=prefect&logoColor=white" alt="Prefect"/>
-  <img src="https://img.shields.io/badge/SQL-1a1b27?style=for-the-badge&logoColor=white" alt="SQL"/>
-</p>
-
-<h4 align="center">👁️ ML &amp; Vision</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=opencv&theme=dark" alt="OpenCV"/>
-  <br/>
+</td>
+</tr>
+<tr>
+<td width="210" valign="middle"><b>👁️ ML &amp; Vision</b></td>
+<td>
+  <img src="https://img.shields.io/badge/OpenCV-1a1b27?style=for-the-badge&logo=opencv&logoColor=5C3EE8" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/scikit--learn-1a1b27?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn"/>
-</p>
-
-<h4 align="center">☁️ Cloud &amp; Tools</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,aws,docker,git,github&theme=dark" alt="Azure, AWS, Docker, Git, GitHub"/>
-  <br/>
+</td>
+</tr>
+<tr>
+<td width="210" valign="middle"><b>☁️ Cloud &amp; Tools</b></td>
+<td>
+  <img src="https://img.shields.io/badge/Azure-1a1b27?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" alt="Azure"/>
+  <img src="https://img.shields.io/badge/AWS-1a1b27?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Docker-1a1b27?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Jira-1a1b27?style=for-the-badge&logo=jira&logoColor=0052CC" alt="Jira"/>
   <img src="https://img.shields.io/badge/ServiceNow-1a1b27?style=for-the-badge&logo=servicenow&logoColor=62D84E" alt="ServiceNow"/>
-</p>
-
-<h4 align="center">🎨 Design</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ps,pr&theme=dark" alt="Figma, Photoshop, Premiere Pro"/>
-</p>
+</td>
+</tr>
+<tr>
+<td width="210" valign="middle"><b>🎨 Design</b></td>
+<td>
+  <img src="https://img.shields.io/badge/Figma-1a1b27?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Photoshop-1a1b27?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" alt="Photoshop"/>
+  <img src="https://img.shields.io/badge/Premiere_Pro-1a1b27?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" alt="Premiere Pro"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
