@@ -1,30 +1,228 @@
-# 💫 About Me:
-🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on Web Dev and Web Design<br>🌱 I’m currently learning Deep Learning and AngularJS<br>💬 Ask me about web dev and DL<br>⚡ Fun fact about me: I work better under pressure
+<!-- ░░ Header ░░ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=210&section=header&text=Sharun%20Raj&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=GenAI%20%E2%80%A2%20Agentic%20AI%20Engineer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header"/>
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+multi-agent+systems+with+LangGraph+%F0%9F%A4%96;RAG+%2B+hybrid+search+(FAISS+%2B+BM25)+%F0%9F%94%8D;LLM+observability%2C+evals+%26+guardrails+%F0%9F%9B%A1%EF%B8%8F;Shipping+enterprise+AI+to+production+%F0%9F%9A%80" alt="typing intro"/>
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sharun.raj.56) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sha_run09/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sharun-raj-nambayil-93a46219a/) 
+<p align="center">
+  <a href="https://www.linkedin.com/in/sharun-raj-nambayil-93a46219a/"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn"/></a>
+  <a href="mailto:sharunraj39@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=f7768e" alt="Email"/></a>
+  <a href="https://www.instagram.com/sha_run09/"><img src="https://img.shields.io/badge/Instagram-1a1b27?style=for-the-badge&logo=instagram&logoColor=bb9af7" alt="Instagram"/></a>
+  <a href="https://www.facebook.com/sharun.raj.56"><img src="https://img.shields.io/badge/Facebook-1a1b27?style=for-the-badge&logo=facebook&logoColor=7dcfff" alt="Facebook"/></a>
+  <img src="https://komarev.com/ghpvc/?username=sharunraj&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="profile views"/>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sharunraj&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sharunraj&theme=highcontrast&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sharunraj&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sharunraj&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- ░░ About ░░ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="28"/> About Me
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<table>
+<tr>
+<td width="55%" valign="top">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sharunraj&limit=5&theme=dark&combine_all_yearly_contributions=true)
+```python
+class Sharun:
+    role      = "Software Engineer @ UST Global"
+    focus     = ["Agentic AI", "Multi-Agent Systems", "RAG"]
+    llm_ops   = ["Observability", "Evals", "Guardrails"]
+    data      = ["Databricks", "Neo4j", "SQL Generation"]
+    ships_on  = ["Azure", "AWS", "Docker"]
+    fun_fact  = "I work better under pressure ⚡"
+```
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+</td>
+<td width="45%" valign="top">
 
----
-[![](https://visitcount.itsvg.in/api?id=sharunraj&icon=2&color=12)](https://visitcount.itsvg.in)
+- 🤖 I build **multi-agent systems** and **LLM apps** for the enterprise
+- 🔍 **RAG** with hybrid search across **FAISS, BM25 & Neo4j**
+- 🛡️ **AI governance**: PII detection, prompt-injection checks, LLM-as-a-Judge
+- 📄 Published an **IEEE paper** on multimodal deepfake detection
+- 💬 Ask me about **agents, RAG & LLM evals**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ░░ Featured work ░░ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28"/> What I've Built
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🧪 Test Log Triage & Defect Platform
+Agentic RAG with hybrid search that categorizes failures, finds root causes and files Jira defects automatically.
+
+`LangGraph` `Azure OpenAI` `FAISS` `BM25` `FastAPI` `React`
+
+> **90%** faster defect triage
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔧 Self-Healing AIOps Platform
+Detects incidents, runs remediation and streams live status, with ServiceNow integration.
+
+`FastAPI` `Redis` `WebSockets` `Azure OpenAI` `ServiceNow`
+
+> **70%+** lower MTTR
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 💰 Multi-Agent Financial Analytics
+Planner, Schema, SQL, Validation, Analytics and Visualization agents that let finance teams query GL, AP/AR and KPIs in plain English.
+
+`LangGraph` `GPT-4o` `Neo4j` `PostgreSQL` `Redis`
+
+> **41%** lower response latency
+
+</td>
+<td width="50%" valign="top">
+
+#### 🛡️ AI Governance & LLM Observability
+Tracks tokens, cost, latency and model usage, with PII, toxicity, secret-scan, prompt-injection and faithfulness checks.
+
+`Presidio` `Toxic-BERT` `LLM-as-a-Judge` `FastAPI`
+
+> Enterprise-wide LLM guardrails
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🧬 Agentic SQL Generation
+Reads Jira tickets with source-to-target mappings and writes optimized ETL SQL using self-learning YAML skills, then delivers it to GitHub.
+
+`Agents` `Oracle` `QAD` `Jira` `GitHub`
+
+</td>
+<td width="50%" valign="top">
+
+#### 📈 Log Analytics & Job Monitoring
+Medallion-architecture anomaly detection on Databricks, plus cloud-native monitoring of Airflow and Prefect pipelines.
+
+`Databricks` `Airflow` `Prefect` `AWS Lambda` `SQS`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ░░ Stack ░░ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="28"/> Tech Stack
+
+<h4 align="center">🧠 GenAI &amp; Agents</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/LangGraph-1a1b27?style=for-the-badge&logo=langgraph&logoColor=7dcfff" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/LangChain-1a1b27?style=for-the-badge&logo=langchain&logoColor=7dcfff" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/MCP-1a1b27?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP"/>
+  <img src="https://img.shields.io/badge/Azure_OpenAI-1a1b27?style=for-the-badge&logo=openai&logoColor=white" alt="Azure OpenAI"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Claude-1a1b27?style=for-the-badge&logo=anthropic&logoColor=D97757" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Gemini-1a1b27?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/OpenSpec-1a1b27?style=for-the-badge&logoColor=white" alt="OpenSpec"/>
+</p>
+
+<h4 align="center">🔍 Retrieval &amp; Knowledge</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/FAISS-1a1b27?style=for-the-badge&logo=meta&logoColor=0081FB" alt="FAISS"/>
+  <img src="https://img.shields.io/badge/BM25-1a1b27?style=for-the-badge&logoColor=white" alt="BM25"/>
+  <img src="https://img.shields.io/badge/Neo4j-1a1b27?style=for-the-badge&logo=neo4j&logoColor=4581C3" alt="Neo4j"/>
+  <img src="https://img.shields.io/badge/Hybrid_Search-1a1b27?style=for-the-badge&logoColor=white" alt="Hybrid Search"/>
+  <img src="https://img.shields.io/badge/Semantic_Caching-1a1b27?style=for-the-badge&logoColor=white" alt="Semantic Caching"/>
+</p>
+
+<h4 align="center">🛡️ LLM Evals &amp; Governance</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/LLM--as--a--Judge-1a1b27?style=for-the-badge&logoColor=white" alt="LLM-as-a-Judge"/>
+  <img src="https://img.shields.io/badge/Presidio-1a1b27?style=for-the-badge&logoColor=white" alt="Presidio"/>
+  <img src="https://img.shields.io/badge/Guardrails-1a1b27?style=for-the-badge&logoColor=white" alt="Guardrails"/>
+  <img src="https://img.shields.io/badge/Observability-1a1b27?style=for-the-badge&logoColor=white" alt="Observability"/>
+</p>
+
+<h4 align="center">⚙️ Languages, Backend &amp; Web</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,fastapi,flask,nextjs,react,nodejs,tailwind&theme=dark" alt="Python, JavaScript, FastAPI, Flask, Next.js, React, Node.js, Tailwind"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Streamlit-1a1b27?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Gradio-1a1b27?style=for-the-badge&logo=gradio&logoColor=F97316" alt="Gradio"/>
+  <img src="https://img.shields.io/badge/WebSockets-1a1b27?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets"/>
+</p>
+
+<h4 align="center">🗄️ Data &amp; Databases</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,redis,mysql,mongodb&theme=dark" alt="PostgreSQL, Redis, MySQL, MongoDB"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Databricks-1a1b27?style=for-the-badge&logo=databricks&logoColor=FF3621" alt="Databricks"/>
+  <img src="https://img.shields.io/badge/Airflow-1a1b27?style=for-the-badge&logo=apacheairflow&logoColor=017CEE" alt="Airflow"/>
+  <img src="https://img.shields.io/badge/Prefect-1a1b27?style=for-the-badge&logo=prefect&logoColor=white" alt="Prefect"/>
+  <img src="https://img.shields.io/badge/SQL-1a1b27?style=for-the-badge&logoColor=white" alt="SQL"/>
+</p>
+
+<h4 align="center">👁️ ML &amp; Vision</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=opencv&theme=dark" alt="OpenCV"/>
+  <br/>
+  <img src="https://img.shields.io/badge/scikit--learn-1a1b27?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn"/>
+</p>
+
+<h4 align="center">☁️ Cloud &amp; Tools</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker,git,github&theme=dark" alt="Azure, AWS, Docker, Git, GitHub"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Jira-1a1b27?style=for-the-badge&logo=jira&logoColor=0052CC" alt="Jira"/>
+  <img src="https://img.shields.io/badge/ServiceNow-1a1b27?style=for-the-badge&logo=servicenow&logoColor=62D84E" alt="ServiceNow"/>
+</p>
+
+<h4 align="center">🎨 Design</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ps,pr&theme=dark" alt="Figma, Photoshop, Premiere Pro"/>
+</p>
+
+<br/>
+
+<!-- ░░ Publication ░░ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png" width="28"/> Publication
+
+> **IEEE (2024)**: *Multimodal Deepfake Detection using Deep Convolutional Neural Networks and Mel-Frequency Cepstral Coefficients*
+
+<br/>
+
+<!-- ░░ Stats ░░ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28"/> GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sharunraj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&rank_icon=github" alt="stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharunraj&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8" alt="top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sharunraj&theme=tokyonight&hide_border=true&background=1a1b27" alt="streak"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sharunraj&theme=tokyo-night&hide_border=true&bg_color=1a1b27&area=true" alt="contribution graph"/>
+</p>
+
+<br/>
+
+<!-- ░░ Quote ░░ -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote"/>
+</p>
+
+<!-- ░░ Footer ░░ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:1a1b27&height=120&section=footer" width="100%" alt="footer"/>
+</p>
