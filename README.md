@@ -203,16 +203,12 @@ Medallion-architecture anomaly detection on Databricks, plus cloud-native monito
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28"/> GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sharunraj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&rank_icon=github" alt="stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharunraj&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8" alt="top languages"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=sharunraj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&rank_icon=github" alt="stats"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sharunraj&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8" alt="top languages"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sharunraj&theme=tokyonight&hide_border=true&background=1a1b27" alt="streak"/>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sharunraj&theme=tokyo-night&hide_border=true&bg_color=1a1b27&area=true" alt="contribution graph"/>
 </p>
 
 <br/>
